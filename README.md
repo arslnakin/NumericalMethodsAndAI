@@ -3,12 +3,12 @@
 This project contains implementations of various numerical methods and artificial intelligence algorithms, including animations to visualize their working.
 
 ## Features
-- **Finite Element Method (FEM):** Simulates deformation in a 2D mesh.
+- **Finite Element Method (FEM):** Simulates rectangle'sdeformation in a 2D mesh.
 - **Monte Carlo Method:** Estimates the value of π using a random sampling technique.
 - **Runge Kutta:** Solves the pendulum motion and visualizes energy changes over time.
-- **Genetic Algorithm:** Optimizes a function using evolutionary techniques.
+- **Genetic Algorithm:** Finding minimize value of a function=x**2+4*sin(5x)+cos(10x) using evolutionary techniques.
 - **PINN (Physics-Informed Neural Network):** Solves differential equations for pendulum motion.
-- **Gradient Descent:** Finds the minimum of a quadratic function.
+- **Gradient Descent:** Finds the minimum of a quadratic function=x**2+4x+4.
 
 ## Usage
 Each algorithm is modularized and can be run independently. Examples for each algorithm are in the `examples/` directory.

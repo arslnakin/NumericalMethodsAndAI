@@ -2,6 +2,11 @@
 
 This project contains implementations of various numerical methods and artificial intelligence algorithms, including animations to visualize their working.
 
+## About the Project
+- **Created by:** [Arslan,Akın](https://www.linkedin.com/in/arslanakin/)
+- **Presentation Date:** 20.11.2024
+- **Webinar Link:** [Makina MMO Webinar](https://makina.mmo.org.tr/Egitim/13655)
+
 ## Features
 - **Finite Element Method (FEM):** Simulates rectangle'sdeformation in a 2D mesh.
 - **Monte Carlo Method:** Estimates the value of π using a random sampling technique.
